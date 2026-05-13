@@ -1,5 +1,7 @@
 Privacy Policy / 隐私政策
+
 English:
+
 A.GUID is a standalone offline utility. We do NOT collect, store, or transmit any personal information, usage data, or any other type of data from your device.
 
 中文：
